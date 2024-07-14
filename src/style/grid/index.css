@@ -4,3 +4,11 @@ body {
     "aside header"
     "aside mais";
 }
+
+.cabecalho {
+    grid-area: header;
+}
+
+.menu-lateral {
+    grid-area: aside;
+}
