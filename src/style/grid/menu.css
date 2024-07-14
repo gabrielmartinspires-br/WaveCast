@@ -2,3 +2,7 @@
     display: grid;
     grid-template-rows: auto auto auto 1fr;
 }
+
+.menu-lateral__logo {
+    justify-self: center;
+}
