@@ -1,4 +1,6 @@
 .secao-horizontal
 .cartao {
     display: grid;
+    grid-template-columns: auto 1FR auto;
+    grid-template-rows: auto 3rem 0.9rem;
 }
