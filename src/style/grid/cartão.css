@@ -12,5 +12,10 @@
 
 .secao-horizontal
 .cartao__botao {
-    grid-area: 2 / 3 / 3;
+    grid-area: 2 / 3 / 3 / 4;
+}
+
+.secao-horizontal
+.cartao__titulo {
+    grid-area: 2 / 2 / 3 / 3;
 }
